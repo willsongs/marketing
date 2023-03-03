@@ -1,1 +1,1 @@
-worker: python3 entertainment.py
+worker: python3 marketing.py
